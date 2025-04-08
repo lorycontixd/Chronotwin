@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2ae9e56dc5fe9b40a1ca76126ebfa27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227159
+  packageName: 2D Hand Painted Platformer Environment
+  packageVersion: 1.0
+  assetPath: Assets/2D Hand Painted Platformer Environment/Anims/Player/Land.anim
+  uploadId: 619283

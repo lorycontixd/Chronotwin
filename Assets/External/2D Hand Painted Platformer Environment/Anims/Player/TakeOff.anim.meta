@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d404b1767f4cfa419342a4d508436ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227159
+  packageName: 2D Hand Painted Platformer Environment
+  packageVersion: 1.0
+  assetPath: Assets/2D Hand Painted Platformer Environment/Anims/Player/TakeOff.anim
+  uploadId: 619283

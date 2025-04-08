@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54339a593622702428d970f69544f3a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227159
+  packageName: 2D Hand Painted Platformer Environment
+  packageVersion: 1.0
+  assetPath: Assets/2D Hand Painted Platformer Environment/Anims/Enemy Runner/Run.anim
+  uploadId: 619283

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b053750995c235f41b62e9bc8b8cdcbc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227159
+  packageName: 2D Hand Painted Platformer Environment
+  packageVersion: 1.0
+  assetPath: Assets/2D Hand Painted Platformer Environment/Anims/Enemy Runner/Blink.anim
+  uploadId: 619283

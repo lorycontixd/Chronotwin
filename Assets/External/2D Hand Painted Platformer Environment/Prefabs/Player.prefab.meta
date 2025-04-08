@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c589ff4470e5857469bad0859c60d61a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227159
+  packageName: 2D Hand Painted Platformer Environment
+  packageVersion: 1.0
+  assetPath: Assets/2D Hand Painted Platformer Environment/Prefabs/Player.prefab
+  uploadId: 619283

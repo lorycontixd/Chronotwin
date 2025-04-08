@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b2edc5d9864c9c49a6b1eca0997af35
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227159
+  packageName: 2D Hand Painted Platformer Environment
+  packageVersion: 1.0
+  assetPath: Assets/2D Hand Painted Platformer Environment/Prefabs/Enemy_Runner_S.prefab
+  uploadId: 619283

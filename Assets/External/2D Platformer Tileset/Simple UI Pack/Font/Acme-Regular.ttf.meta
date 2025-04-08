@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c61f047ba030bf944ae31adfb7b1ac99
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Acme
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173155
+  packageName: 2D Platformer Tileset
+  packageVersion: 4.1
+  assetPath: Assets/2D Platformer Tileset/Simple UI Pack/Font/Acme-Regular.ttf
+  uploadId: 575983

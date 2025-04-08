@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f68fc3222be9f464a8bdf9c84c73b627
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173155
+  packageName: 2D Platformer Tileset
+  packageVersion: 4.1
+  assetPath: Assets/2D Platformer Tileset/Sprites/Tileset_1/tileset_1_18.asset
+  uploadId: 575983

@@ -1,0 +1,23 @@
+With this asset you can easily create levels for your platformer game!
+
+Pack includes:
+-69 unique sprites (boxes, spikes, platfroms and decorative elements)
+-2 ground tilesets
+-Customizable trees
+-5 layer parallax background
+-Fog and clouds for background
+-Blurry islands with trees and plants for background and foreground
+-Characters sprites & simple animations
+
+How to create a parallax effect like in the demo scene:
+
+1) Set the projection of main camera to perspective;
+2) Put background layers (mountains or islands) further away from the camera by increasing their z-position. The larger z-position is, the farther the object will be;
+3) Dont forget about order in layer property in sprite renderer settings of each background layer: distant objects should have less order in layer then near ones;
+4) If you are using a blurry version of the background, then I recommend you to place the blurrier layers further away from the camera.
+
+For the foreground:
+
+1) The lower the z-position, the closer the object will be to the camera;
+2) The blurrier objects should be closer to the camera and they should be darker (you can change their color is sprite renderer settings);
+
