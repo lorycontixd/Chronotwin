@@ -120,6 +120,17 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity = new Vector2(moveHorizontal * moveSpeed, rb.velocity.y);
         }
+        else
+        {
+            if (wallDirection == -1) // left wall
+            {
+                rb.velocity = new Vector2( Mathf.Max(moveHorizontal * moveSpeed, 0), rb.velocity.y);
+            }
+            else
+            {
+                rb.velocity = new Vector2(Mathf.Min(moveHorizontal * moveSpeed, 0), rb.velocity.y);
+            }
+        }
 
         // Sprite flipping (optional)
         /*if (moveHorizontal > 0)
