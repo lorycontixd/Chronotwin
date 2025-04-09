@@ -10,14 +10,14 @@ public class PlayerController : MonoBehaviour
     [Header("Wall Slide Settings")]
     [SerializeField] private Transform rightWallCheck;
     [SerializeField] private Transform leftWallCheck;
-    [SerializeField] private float wallSlideSpeed = 2f;
+    [SerializeField, Range(1f, 4f)] private float wallSlideSpeed = 2f;
     [SerializeField] private Vector2 wallJumpForce = new Vector2(5f, 10f);
-    [SerializeField] private float wallCheckDistance = 0.05f;
+    [SerializeField, Range(0.001f, 0.15f)] private float wallCheckDistance = 0.05f;
     [SerializeField] private int maxWallJumpCount = 1;
 
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
-    [SerializeField] private float groundCheckRadius = 0.2f;
+    [SerializeField, Range(0.001f, 0.5f)] private float groundCheckRadius = 0.2f;
     [SerializeField] private LayerMask groundLayer;
 
     private Rigidbody2D rb;
