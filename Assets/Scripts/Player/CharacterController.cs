@@ -74,8 +74,6 @@ public class PlayerController : MonoBehaviour
         {
             coyoteTimeCounter -= Time.deltaTime;
         }
-
-
     }
 
     void CheckWallSlide()
